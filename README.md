@@ -2,12 +2,9 @@
 
 De første spillene jeg laget i Python og Pygame.
 
-| Sirkelspillet | Klassequiz |
-|---|---|
-| <img src="sirkelspillet.jpg" alt="Skjermbilde av Sirkelspillet" width="400"> | <img src="klassequiz.jpg" alt="Skjermbilde av Klassequiz" width="400"> |
+<img src="sirkelspillet.jpg" alt="Skjermbilde av Sirkelspillet" width="500">
 
 - **Sirkelspillet.py** – skytespill der du treffer sirkler med musen. Poeng og rekord lagres i `lagringSkytSirkel.txt` mellom hver gang spillet kjøres.
-- **Klassequiz.py** – julequiz med flervalgsspørsmål, besvart med musen.
 - **forsteOving.py** – den aller første øvingen i Pygame.
 
 ## Kjør
